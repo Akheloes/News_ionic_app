@@ -1,0 +1,22 @@
+{
+  "name": "news_ionic_app",
+  "version": "1.0.0",
+  "description": "Simple ionic app displaying news by keyword from a news api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akheloes/News_ionic_app.git"
+  },
+  "keywords": [
+    "news"
+  ],
+  "author": "Faical OUDBIB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akheloes/News_ionic_app/issues"
+  },
+  "homepage": "https://github.com/Akheloes/News_ionic_app#readme"
+}
